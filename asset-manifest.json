@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-paninasia/static/css/main.6fe59950.css",
+    "main.js": "/project-paninasia/static/js/main.8efc0502.js",
+    "index.html": "/project-paninasia/index.html",
+    "main.6fe59950.css.map": "/project-paninasia/static/css/main.6fe59950.css.map",
+    "main.8efc0502.js.map": "/project-paninasia/static/js/main.8efc0502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe59950.css",
+    "static/js/main.8efc0502.js"
+  ]
+}
